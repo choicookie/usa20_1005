@@ -1,0 +1,6 @@
+streamlit
+yfinance
+pandas
+finance-datareader
+deep-translator
+duckduckgo-search
